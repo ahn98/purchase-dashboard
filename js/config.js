@@ -3,7 +3,7 @@
 // =====================================================================
 window.APP_CONFIG = {
   // Supabase > Project Settings > API 에서 복사해 붙여넣으세요.
-  SUPABASE_URL: 'https://aihnbdsxehsozmjlmgoy.supabase.co/rest/v1/',
+  SUPABASE_URL: 'https://aihnbdsxehsozmjlmgoy.supabase.co',
   SUPABASE_ANON_KEY: 'sb_publishable_Rm0YS4Rez60VB_IxfjoyHg_Uonu_2ix',
 
   ORG_NAME: '미래농업팀',
