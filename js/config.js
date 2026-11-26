@@ -3,11 +3,11 @@
 // =====================================================================
 window.APP_CONFIG = {
   // Supabase > Project Settings > API 에서 복사해 붙여넣으세요.
-  SUPABASE_URL: 'https://YOUR-PROJECT-ID.supabase.co',
-  SUPABASE_ANON_KEY: 'YOUR-ANON-PUBLIC-KEY',
+  SUPABASE_URL: 'https://aihnbdsxehsozmjlmgoy.supabase.co/rest/v1/',
+  SUPABASE_ANON_KEY: 'sb_publishable_Rm0YS4Rez60VB_IxfjoyHg_Uonu_2ix',
 
-  ORG_NAME: 'OO기관',
-  SITE_NAME: '물품구매 관리',
+  ORG_NAME: '미래농업팀',
+  SITE_NAME: '구매 관리',
 
   // 반려 처리할 때 쓰는 단계 이름
   REJECT_STEP: '반려',
